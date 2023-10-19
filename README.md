@@ -1,7 +1,7 @@
 # Hi, Chara_SS here.
 
 Senior High School student, studying in Beijing, China.
-Just learn and make whatever I want.
+Just learn and code whatever I want.
 
 # Using:
 

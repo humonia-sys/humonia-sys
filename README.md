@@ -16,7 +16,7 @@ Tools:
 [![](https://img.shields.io/badge/JetBrains_Products-080809?style=for-the-badge&logo=jetbrains&labelColor=black)](https://www.jetbrains.com)
 [![](https://img.shields.io/badge/Visaul_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&labelColor=black&logoColor=0078D7)](https://code.visualstudio.com)
 
-![Humonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=humonia-sys)
+[![Humonia's GitHub stats](https://github-stats-extended.vercel.app/api?username=humonia-sys)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **humonia-sys/humonia-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 # Hi, Humonia here.
 
-Senior High School student, studying in Beijing, China.
+First-year university student, studying in Beijing, China.
 Just learn and code whatever I want.
 
 # Using:

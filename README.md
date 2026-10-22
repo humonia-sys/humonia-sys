@@ -15,7 +15,6 @@ Learning and coding whatever I want.
 **AI & Coding Agents:**
 
 [![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white&labelColor=black)](https://github.com/deepseek-ai/deepseek-harness)  
-[![Codex](https://img.shields.io/badge/Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=black)](https://openai.com)  
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=black)](https://anthropic.com)  
 
 **Platforms & Systems:**

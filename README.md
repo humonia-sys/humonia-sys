@@ -1,34 +1,32 @@
 # Hi, Humonia here.
 
-First-Year university student, studying in Beijing, China.
-Just learn and code whatever I want.
+First-year university student studying in Beijing, China.  
+Learning and coding whatever I want.
 
-# Using:
+## Tech Stack & Environment
 
-Languages:
+**Languages & Frameworks:**
 
-[![](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&&labelColor=black)](https://java.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://python.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)](https://java.com)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white&labelColor=black)](https://nuxt.com)
+[![Verilog](https://img.shields.io/badge/Verilog-2B5B84?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black)](https://en.wikipedia.org/wiki/Verilog)
 
-[![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&&labelColor=black)](https://kotlinlang.org)
+**AI & Agentic Workflows:**
 
-Tools:
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white&labelColor=black)](https://deepseek.com)
+[![Codex](https://img.shields.io/badge/Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=black)](https://openai.com)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=black)](https://anthropic.com)
+[![Harness](https://img.shields.io/badge/Harness-00ADEF?style=for-the-badge&logo=harness&logoColor=white&labelColor=black)](https://harness.io)
 
-[![](https://img.shields.io/badge/JetBrains_Products-080809?style=for-the-badge&logo=jetbrains&labelColor=black)](https://www.jetbrains.com)
-[![](https://img.shields.io/badge/Visaul_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&labelColor=black&logoColor=0078D7)](https://code.visualstudio.com)
+**Platforms & Environments:**
+
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=black)](https://archlinux.org)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=black)](https://debian.org)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=black)](https://microsoft.com/windows)
+[![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=black)](https://www.jetbrains.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black)](https://code.visualstudio.com)
+
+---
 
 [![Humonia's GitHub stats](https://github-stats-extended.vercel.app/api?username=humonia-sys)](https://github.com/stats-organization/github-stats-extended)
-
-<!--
-**humonia-sys/humonia-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

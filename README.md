@@ -21,7 +21,6 @@ Learning and coding whatever I want.
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=black)](https://archlinux.org)  
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=black)](https://debian.org)  
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white&labelColor=black)](https://microsoft.com/windows)  
 
 ---
 
